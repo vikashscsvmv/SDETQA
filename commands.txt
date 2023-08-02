@@ -4,3 +4,4 @@ git log --oneline
 git config --global user.name "VikashQA"
 git clone
 git remote -v
+git remove remote
